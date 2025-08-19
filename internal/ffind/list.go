@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/hiforensics/utils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/sys"
 )
 
 func ShadowCopy(drive string) (dir string, err error) {

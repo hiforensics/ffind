@@ -1,12 +1,12 @@
 # ffind
-[![Go Reference](https://pkg.go.dev/badge/github.com/hiforensics/ffind.svg)](https://pkg.go.dev/github.com/hiforensics/ffind)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hiforensics/ffind?style=flat-square)](https://goreportcard.com/report/github.com/hiforensics/ffind)
-[![Release](https://img.shields.io/github/release/hiforensics/ffind.svg?style=flat-square)](https://github.com/hiforensics/ffind/releases/latest)
+[![Go Reference](https://pkg.go.dev/badge/github.com/cuhsat/ffind.svg)](https://pkg.go.dev/github.com/cuhsat/ffind)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cuhsat/ffind?style=flat-square)](https://goreportcard.com/report/github.com/cuhsat/ffind)
+[![Release](https://img.shields.io/github/release/cuhsat/ffind.svg?style=flat-square)](https://github.com/cuhsat/ffind/releases/latest)
 
 Find forensic artifacts in mount points or the live system.
 
 ```console
-go install github.com/hiforensics/ffind@latest
+go install github.com/cuhsat/ffind@latest
 ```
 
 ## Usage

@@ -7,11 +7,11 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/hiforensics/utils/pkg/hash"
-	"github.com/hiforensics/utils/pkg/sys"
-	"github.com/hiforensics/utils/pkg/zip"
+	"github.com/cuhsat/futils/pkg/hash"
+	"github.com/cuhsat/futils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/zip"
 
-	"github.com/hiforensics/ffind/internal/windows"
+	"github.com/cuhsat/ffind/internal/windows"
 )
 
 const (

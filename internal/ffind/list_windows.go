@@ -11,7 +11,7 @@ import (
 
 	"github.com/mxk/go-vss"
 
-	"github.com/hiforensics/utils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/sys"
 )
 
 const (

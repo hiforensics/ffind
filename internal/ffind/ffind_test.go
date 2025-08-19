@@ -7,8 +7,8 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/hiforensics/utils/pkg/sys"
-	"github.com/hiforensics/utils/pkg/zip"
+	"github.com/cuhsat/futils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/zip"
 )
 
 var (

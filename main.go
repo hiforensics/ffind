@@ -38,9 +38,9 @@ import (
 	"flag"
 	"io"
 
-	"github.com/hiforensics/utils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/sys"
 
-	"github.com/hiforensics/ffind/internal/ffind"
+	"github.com/cuhsat/ffind/internal/ffind"
 )
 
 func main() {
